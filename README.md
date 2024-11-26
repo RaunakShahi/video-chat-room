@@ -7,7 +7,7 @@ Check out the live version [here](https://raunakshahi.github.io/video-chat-room/
 
 ## 🚀 Features at a Glance
 
-![Screenshot](images/screenshot.png)
+![Screenshot](images/Screenshot.png)
 
 🎯 **Real-Time Video & Audio**  
 💬 **Interactive Chat**  
