@@ -5,6 +5,14 @@ Welcome to **Connectify**, a user-friendly video chatting platform powered by th
 ## 🌍 Live Demo  
 Check out the live version [here](https://raunakshahi.github.io/video-chat-room/)!  
 
+## 🚀 Features at a Glance
+
+![Screenshot](images/screenshot.png)
+
+🎯 **Real-Time Video & Audio**  
+💬 **Interactive Chat**  
+📱 **Responsive Design**  
+
 ## ⚙️ Installation  
 
 1. Clone the repository:  
